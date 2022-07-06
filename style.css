@@ -54,22 +54,38 @@ h1{
      border: 2px solid red;
  }
 .margin{
-     margin-top: 100px;
+     margin-top: 200px;
 }
 .display{
      display: flex;
-     margin-left: 50px;
-     margin-right: 50px;
-     margin-top: 30px;
-     margin-bottom: 50px;
 }
 .border{
-     background-color:rgb(181, 147, 147);
-
+     background-color:rgba(188, 188, 188, 0.561);
+     margin-left: 5%;
+     margin-right: 5%;
+     width: 40%;
+     padding-top: 120px;
+     padding-left: 20px;
+     padding-bottom: 10px;
+     padding-right: 20px;
 }
 .border1{
-     background-color: rgb(250, 248, 246);
+     background-color:rgb(233, 221, 221);
+     margin-left: 5%;
+     margin-right: 5%;
+     width: 40%;
+     padding-top: 120px;
+     padding-left: 20px;
+     padding-bottom: 10px;
+     padding-right: 20px;
 }
 .border2{
-     background-color: rgb(216, 163, 148);
+     background-color:rgb(255, 220, 220);
+     margin-left: 5%;
+     margin-right: 5%;
+     width: 40%;
+     padding-top: 120px;
+     padding-left: 20px;
+     padding-bottom: 10px;
+     padding-right: 20px;
 }
