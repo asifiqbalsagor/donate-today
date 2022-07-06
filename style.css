@@ -59,7 +59,7 @@ h3{
      border: 2px solid red;
  }
 .margin{
-     margin-top: 200px;
+     margin-top: 150px;
 }
 .display{
      display: flex;
@@ -69,10 +69,10 @@ h3{
      margin-left: 5%;
      margin-right: 5%;
      width: 40%;
-     padding-top: 120px;
+     padding-top: 70px;
      padding-left: 20px;
      padding-bottom: 10px;
-     padding-right: 20px;
+     padding-right:px;
      
 }
 .border1{
@@ -80,7 +80,7 @@ h3{
      margin-left: 5%;
      margin-right: 5%;
      width: 40%;
-     padding-top: 120px;
+     padding-top: 70px;
      padding-left: 20px;
      padding-bottom: 10px;
      padding-right: 20px;
@@ -90,21 +90,21 @@ h3{
      margin-left: 5%;
      margin-right: 5%;
      width: 40%;
-     padding-top: 120px;
+     padding-top:70px;
      padding-left: 20px;
      padding-bottom: 10px;
      padding-right: 20px;
 }
 .icon8{
      background-repeat: no-repeat;
-     width: 100px;
+     width:100px;
      height: fit-content;
 }
 .icon9{
      background-repeat: no-repeat;
-     width: 100px;
+     width:100px;
      height: fit-content;     
 .icon4{
      background-repeat: no-repeat;
-     width: 100px;
-     height: fit-content;
+     width:100px;
+     height:fit-content;
