@@ -1,0 +1,75 @@
+body{
+     font-family: 'Roboto', sans-serif;
+     margin: 0px;
+}
+h1{
+     font-size: 50px;
+
+}
+.center-text{
+     width: 100%;
+     text-align: center;
+     color: white;
+}
+
+.link-button{
+     text-decoration: none;
+     background-image: linear-gradient(pink, red);
+     padding: 15px 40px;
+     border-radius: 5px;
+     color: white;
+}
+.background-image{
+     background-image: url(images/donation9.jpg);
+     background-repeat: no-repeat;
+     width: 100%;
+     padding: 150px 0px;
+     background-size: cover;
+ }
+ .text-middle{
+     text-align: center;
+ }
+ h2{
+     display: flex;
+     display: inline;
+     padding: 30px 30px;
+     border: 2px solid blue;
+     
+ }
+ h4{
+     margin-top: 80px;
+     border-bottom: 2px solid grey;
+     margin-bottom: 50px;
+     margin-top: 50px;
+     width: 100%;
+     
+ }
+ .blog-center{
+     text-align: center;
+     margin-top: 100px;
+ }
+ .donate-taka{
+     color:red;
+     background-color: pink;
+     border: 2px solid red;
+ }
+.margin{
+     margin-top: 100px;
+}
+.display{
+     display: flex;
+     margin-left: 50px;
+     margin-right: 50px;
+     margin-top: 30px;
+     margin-bottom: 50px;
+}
+.border{
+     background-color:rgb(181, 147, 147);
+
+}
+.border1{
+     background-color: rgb(250, 248, 246);
+}
+.border2{
+     background-color: rgb(216, 163, 148);
+}
