@@ -4,7 +4,12 @@ body{
 }
 h1{
      font-size: 50px;
-
+}
+h2{
+     font-size: 40px;
+}
+h3{
+     font-size: 30px;
 }
 .center-text{
      width: 100%;
@@ -68,6 +73,7 @@ h1{
      padding-left: 20px;
      padding-bottom: 10px;
      padding-right: 20px;
+     
 }
 .border1{
      background-color:rgb(233, 221, 221);
@@ -89,3 +95,16 @@ h1{
      padding-bottom: 10px;
      padding-right: 20px;
 }
+.icon8{
+     background-repeat: no-repeat;
+     width: 100px;
+     height: fit-content;
+}
+.icon9{
+     background-repeat: no-repeat;
+     width: 100px;
+     height: fit-content;     
+.icon4{
+     background-repeat: no-repeat;
+     width: 100px;
+     height: fit-content;
