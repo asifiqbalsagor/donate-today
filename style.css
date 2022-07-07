@@ -109,16 +109,20 @@ h3{
      width:100px;
      height:fit-content;
 }
-.containar-possition{
-     padding-left: 200px;
-     padding-right: 200px;
+.half-width{
+     width: 50%;
 }
-.image-possition{
+.half-width image{
      width: 80%;
+}
 }
 .footer{
   text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
+  background-image: url(./images/download.jpg);
   color: white;
+}
+.footer-h5{
+     font-size: 30px;
+     color: rgb(226, 65, 7);
 }
